@@ -2,8 +2,11 @@
 Electric Skateboard Project Summary
 
 Objective: 
+
 Engineer a personal electric vehicle and evaluate business feasibility
+
 Content:
+
 1.)	Material Requirements
   a.	Mechanical System 
   b.	Electronic System
