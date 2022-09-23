@@ -3,7 +3,7 @@ Electric Skateboard Project Summary
 
 Objective: 
 
-Engineer a personal electric vehicle and evaluate business feasibility
+	Engineer a personal electric vehicle and evaluate business feasibility
 
 Content:
 
@@ -32,18 +32,18 @@ Content:
 
 4.)	Test Runs
 
-  a.	Methodology
-  
-  b.	Results
+	  a.	Methodology
+
+	  b.	Results
   
 5.)	Evaluation on Business Feasibility 
 
-  a.	Adjustments
-  
-  b.	Market feasibility
-  
-  c.	Operational scalability and cost control
-  
+	  a.	Adjustments
+
+	  b.	Market feasibility
+
+	  c.	Operational scalability and cost control
+
 
 
 	
